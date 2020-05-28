@@ -12,18 +12,13 @@
   <component name="ChangeListManager">
     <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Implement image storage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/post_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/post_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/feed/feed.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/feed/feed.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/development.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db/development.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v4.0.0/1H/1HyneLliGLAocm4KVeWzj5tKGWdomYfz7rWloxQlXRc.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v4.0.0/1H/1HyneLliGLAocm4KVeWzj5tKGWdomYfz7rWloxQlXRc.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v4.0.0/8J/8JOedZF9m0P656fHle8DWmmJffxhiciEo-B9Ta6NyG8.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v4.0.0/8J/8JOedZF9m0P656fHle8DWmmJffxhiciEo-B9Ta6NyG8.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/post/post.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/post/post.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bd/809c6244a15f69" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bd/809c6244a15f69" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/pids/server.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/pids/server.pid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,10 +290,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="337" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590663922994" />
-    <state x="542" y="264" width="596" height="522" key="find.popup" timestamp="1590677646684">
+    <state x="542" y="264" width="596" height="522" key="find.popup" timestamp="1590679990067">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="542" y="264" width="596" height="522" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590677646684" />
+    <state x="542" y="264" width="596" height="522" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590679990067" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1590667377506">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

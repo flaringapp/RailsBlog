@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+
+.header {
+    width: 100%;
+    background: whitesmoke;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+#content {
+    margin-top: 80px;
+}
+
+.header_side {
+    width: 25%;
+}
+
+.title {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title h1 {
+    font-size: 40px;
+    color: cadetblue;
+}
