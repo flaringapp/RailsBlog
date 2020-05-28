@@ -1,0 +1,17 @@
+<div class="wrapper">
+  <div class="title">
+    <h1>FlaringBlog</h1>
+    <p>|Some smart sentence should be here|</p>
+  </div>
+
+  <div class="posts" id="post_section">
+    <% @posts.each do |post| %>
+      <div class="post-card">
+        <img class="image" src="<%= post.image %>">
+        <div class="container_message">
+          <p><%= post.message %></p>
+        </div>
+      </div>
+    <% end %>
+  </div>
+</div>
