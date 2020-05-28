@@ -11,7 +11,7 @@
           <img src="<%= post.creator_image %>">
           <p><%= post.creator_name %></p>
         </div>
-        <img class="image" src="<%= post.image %>">
+        <%= image_tag(post.image, class: "image") %>
         <div class="container_message">
           <p><%= post.message %></p>
         </div>

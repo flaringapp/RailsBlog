@@ -3,9 +3,9 @@
 one:
   nickname: MyString
   image: MyString
-  descriprion: MyText
+  description: MyText
 
 two:
   nickname: MyString
   image: MyString
-  descriprion: MyText
+  description: MyText

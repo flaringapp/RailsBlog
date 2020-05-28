@@ -6,20 +6,13 @@ class PostController < ApplicationController
   end
 
   def add
-    # upload image to cloudinary
-    # @image = Cloudinary::Uploader.upload(params[:media])
-    # create a new post object and save to db
-    @post = Post.new(
-        {
-            :image => TEST_IMAGE,
-            :message => params[:message],
-            :creator_id => TEST_CREATOR
-        }
-    )
+    params[:creator_id] = TEST_CREATOR
+    @post = Post.create(post_params)
 
-    @post.save
-
-    # trigger an event with pusher
     redirect_to('/feed/feed')
+  end
+
+  def post_params
+    params.permit(:image, :message, :creator_id)
   end
 end
