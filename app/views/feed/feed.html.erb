@@ -1,7 +1,15 @@
 <div class="wrapper">
-  <div class="title">
-    <h1>FlaringBlog</h1>
-    <p>|Some smart sentence should be here|</p>
+  <div class="header">
+    <div class="header_side"></div>
+    <div class="title">
+      <h1>FlaringBlog</h1>
+      <p>|Some smart sentence should be here|</p>
+    </div>
+    <div class="header_side">
+      <div class="right_actions">
+        <%= link_to "New Post", post_post_path, class: "button_create_post" %>
+      </div>
+    </div>
   </div>
 
   <div class="posts" id="post_section">

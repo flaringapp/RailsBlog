@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'post/post'
+
   post 'post/add'
 
   get 'feed/feed'
