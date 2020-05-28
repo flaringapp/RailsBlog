@@ -33,6 +33,25 @@
   align-items: center;
 }
 
+.container_creator {
+  padding: 10px;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.container_creator img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.container_creator p {
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
 .post-card {
   width: 500px;
   background: white;
@@ -49,10 +68,10 @@
 }
 
 .container_message {
-  margin: 10px 10px;
+  margin: 10px;
 }
 
 .container_message p {
-  font-size: 18px;
+  font-size: 15px;
   color: #333333;
 }

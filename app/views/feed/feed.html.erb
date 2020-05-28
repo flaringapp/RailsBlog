@@ -7,6 +7,10 @@
   <div class="posts" id="post_section">
     <% @posts.each do |post| %>
       <div class="post-card">
+        <div class="container_creator">
+          <img src="<%= post.creator_image %>">
+          <p><%= post.creator_name %></p>
+        </div>
         <img class="image" src="<%= post.image %>">
         <div class="container_message">
           <p><%= post.message %></p>
