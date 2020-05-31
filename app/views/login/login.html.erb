@@ -17,10 +17,10 @@
       <% token_tag %>
 
       <label for="login_input_email" class="login_label">Login</label>
-      <input name="login" class="login_input input_email" id="login_input_email" type="text" >
+      <input name="login" class="login_input input_email" id="login_input_email" type="text">
 
       <label for="login_input_password" class="login_label">Password</label>
-      <input name="password" class="login_input input_password" id="login_input_password" type="password" >
+      <input name="password" class="login_input input_password" id="login_input_password" type="password">
 
       <input type="submit" class="button_action login_submit" value="Log in">
     </form>
@@ -31,6 +31,6 @@
       </div>
     <% end %>
 
-    <% link_to "Sign up", registration_registration_path, class: "button_action button_register" %>
+    <%= link_to "Sign up", registration_registration_path, class: "button_action button_register" %>
   </div>
 </div>
