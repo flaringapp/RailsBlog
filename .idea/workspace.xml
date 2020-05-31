@@ -10,12 +10,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Implement verifications if user is logged in, fix error message and login error">
+    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Fix screen main background">
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/registration.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/registration_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/registration_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/registration/registration.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20200531174717_remove_user_image.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/controllers/registration_controller_test.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f8/05b0cea750e55b" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f8/05b0cea750e55b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/login_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/login_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/feed/feed.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/feed/feed.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/login/login.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/login/login.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/post/post.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/post/post.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/development.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db/development.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/26/7af1f78aa0bfb6" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/26/7af1f78aa0bfb6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +67,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -165,7 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590663481222</updated>
       <workItem from="1590663482589" duration="10717000" />
-      <workItem from="1590939211191" duration="5400000" />
+      <workItem from="1590939211191" duration="11221000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590668485304</created>
@@ -216,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590945201624</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fix screen main background">
+      <created>1590945342112</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590945342112</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,90 +269,95 @@
     <MESSAGE value="Redesign title" />
     <MESSAGE value="Add login screen" />
     <MESSAGE value="Implement verifications if user is logged in, fix error message and login error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement verifications if user is logged in, fix error message and login error" />
+    <MESSAGE value="Fix screen main background" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix screen main background" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590663825692">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590663825692" />
-    <state x="1259" y="203" key="#xdebugger.evaluate" timestamp="1590945150573">
+    <state x="1259" y="202" key="#xdebugger.evaluate" timestamp="1590951679051">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="826" y="149" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1590667721442" />
-    <state x="1259" y="203" key="#xdebugger.evaluate/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945150573" />
-    <state x="256" y="133" key="DiffContextDialog" timestamp="1590939240684">
+    <state x="1259" y="202" key="#xdebugger.evaluate/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590951679051" />
+    <state x="1022" y="553" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590945506388">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="256" y="133" key="DiffContextDialog/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590939240684" />
-    <state width="2518" height="273" key="GridCell.Tab.0.bottom" timestamp="1590944806909">
+    <state x="1022" y="553" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945506388" />
+    <state x="256" y="133" key="DiffContextDialog" timestamp="1590945801158">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="256" y="133" key="DiffContextDialog/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945801158" />
+    <state width="2518" height="273" key="GridCell.Tab.0.bottom" timestamp="1590945373189">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356376" />
-    <state width="2518" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806909" />
-    <state width="2518" height="273" key="GridCell.Tab.0.center" timestamp="1590944806908">
+    <state width="2518" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373189" />
+    <state width="2518" height="273" key="GridCell.Tab.0.center" timestamp="1590945373187">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356375" />
-    <state width="2518" height="273" key="GridCell.Tab.0.center/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806908" />
-    <state width="2518" height="273" key="GridCell.Tab.0.left" timestamp="1590944806907">
+    <state width="2518" height="273" key="GridCell.Tab.0.center/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373187" />
+    <state width="2518" height="273" key="GridCell.Tab.0.left" timestamp="1590945373185">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356375" />
-    <state width="2518" height="273" key="GridCell.Tab.0.left/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806907" />
-    <state width="2518" height="273" key="GridCell.Tab.0.right" timestamp="1590944806908">
+    <state width="2518" height="273" key="GridCell.Tab.0.left/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373185" />
+    <state width="2518" height="273" key="GridCell.Tab.0.right" timestamp="1590945373188">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356376" />
-    <state width="2518" height="273" key="GridCell.Tab.0.right/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806908" />
-    <state width="2518" height="273" key="GridCell.Tab.1.bottom" timestamp="1590944825462">
+    <state width="2518" height="273" key="GridCell.Tab.0.right/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373188" />
+    <state width="2518" height="273" key="GridCell.Tab.1.bottom" timestamp="1590945373191">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356378" />
-    <state width="2518" height="273" key="GridCell.Tab.1.bottom/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944825462" />
+    <state width="2518" height="273" key="GridCell.Tab.1.bottom/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373191" />
     <state width="1638" height="358" key="GridCell.Tab.1.bottom/46.23.1634.1027@46.23.1634.1027" timestamp="1590667599141" />
-    <state width="2518" height="273" key="GridCell.Tab.1.center" timestamp="1590944825461">
+    <state width="2518" height="273" key="GridCell.Tab.1.center" timestamp="1590945373190">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356377" />
-    <state width="2518" height="273" key="GridCell.Tab.1.center/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944825461" />
+    <state width="2518" height="273" key="GridCell.Tab.1.center/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373190" />
     <state width="1638" height="358" key="GridCell.Tab.1.center/46.23.1634.1027@46.23.1634.1027" timestamp="1590667599139" />
-    <state width="2518" height="273" key="GridCell.Tab.1.left" timestamp="1590944825460">
+    <state width="2518" height="273" key="GridCell.Tab.1.left" timestamp="1590945373190">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356377" />
-    <state width="2518" height="273" key="GridCell.Tab.1.left/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944825460" />
+    <state width="2518" height="273" key="GridCell.Tab.1.left/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373190" />
     <state width="1638" height="358" key="GridCell.Tab.1.left/46.23.1634.1027@46.23.1634.1027" timestamp="1590667599139" />
-    <state width="2518" height="273" key="GridCell.Tab.1.right" timestamp="1590944825462">
+    <state width="2518" height="273" key="GridCell.Tab.1.right" timestamp="1590945373191">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356378" />
-    <state width="2518" height="273" key="GridCell.Tab.1.right/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944825462" />
+    <state width="2518" height="273" key="GridCell.Tab.1.right/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373191" />
     <state width="1638" height="358" key="GridCell.Tab.1.right/46.23.1634.1027@46.23.1634.1027" timestamp="1590667599140" />
-    <state width="2518" height="273" key="GridCell.Tab.2.bottom" timestamp="1590944806830">
+    <state width="2518" height="273" key="GridCell.Tab.2.bottom" timestamp="1590945373194">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356380" />
-    <state width="2518" height="273" key="GridCell.Tab.2.bottom/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806830" />
-    <state width="2518" height="273" key="GridCell.Tab.2.center" timestamp="1590944806829">
+    <state width="2518" height="273" key="GridCell.Tab.2.bottom/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373194" />
+    <state width="2518" height="273" key="GridCell.Tab.2.center" timestamp="1590945373192">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356379" />
-    <state width="2518" height="273" key="GridCell.Tab.2.center/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806829" />
-    <state width="2518" height="273" key="GridCell.Tab.2.left" timestamp="1590944806828">
+    <state width="2518" height="273" key="GridCell.Tab.2.center/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373192" />
+    <state width="2518" height="273" key="GridCell.Tab.2.left" timestamp="1590945373192">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356379" />
-    <state width="2518" height="273" key="GridCell.Tab.2.left/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806828" />
-    <state width="2518" height="273" key="GridCell.Tab.2.right" timestamp="1590944806830">
+    <state width="2518" height="273" key="GridCell.Tab.2.left/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373192" />
+    <state width="2518" height="273" key="GridCell.Tab.2.right" timestamp="1590945373193">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="358" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590844356380" />
-    <state width="2518" height="273" key="GridCell.Tab.2.right/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944806830" />
-    <state x="1060" y="346" key="RollbackChangesDialog" timestamp="1590939241149">
+    <state width="2518" height="273" key="GridCell.Tab.2.right/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945373193" />
+    <state x="1060" y="346" key="RollbackChangesDialog" timestamp="1590945801607">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1060" y="346" key="RollbackChangesDialog/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590939241149" />
+    <state x="1060" y="346" key="RollbackChangesDialog/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945801607" />
     <state x="670" y="337" key="Vcs.Push.Dialog.v2" timestamp="1590943028519">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -339,11 +371,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1067" y="637" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944276948" />
-    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590945266995">
+    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590947050142">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="542" y="264" width="596" height="522" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590762262196" />
-    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945266995" />
+    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590947050142" />
     <state x="621" y="427" key="git4idea.ui.GitStashDialog" timestamp="1590761878165">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -352,11 +384,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="600" height="440" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590667377506" />
-    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup" timestamp="1590943362524">
+    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup" timestamp="1590951926068">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590699920624" />
-    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590943362524" />
+    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590951926068" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/blog@Development__blog.rcov" NAME="Development: blog Coverage Results" MODIFIED="1590944806763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="blog" />

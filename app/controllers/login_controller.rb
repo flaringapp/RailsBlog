@@ -18,10 +18,4 @@ class LoginController < ApplicationController
     session[:user_id] = @user.id
     redirect_to feed_feed_path
   end
-
-  private
-
-  def post_params
-    params.permit(:login, :password)
-  end
 end

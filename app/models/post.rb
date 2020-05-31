@@ -5,7 +5,7 @@ class Post < ApplicationRecord
     User.find(creator_id).nickname
   end
   def creator_image
-    User.find(creator_id).image
+    User.find(creator_id).avatar
   end
 
   def acceptable_image

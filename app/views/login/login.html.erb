@@ -1,7 +1,7 @@
 <div class="wrapper">
   <div class="header">
     <div class="header_side">
-      <%= link_to "Home", home_index_path, class: "button_home" %>
+      <%= link_to "Home", home_index_path, class: "button_action button_home" %>
     </div>
     <div class="title">
       <h1>FlaringBlog</h1>
@@ -16,11 +16,13 @@
     <form method="post" action="/login/post" class="form_login">
       <% token_tag %>
 
-      <label for="login_input_email" class="login_label">Email</label>
+      <label for="login_input_email" class="login_label">Login</label>
       <input name="login" class="login_input input_email" id="login_input_email" type="text" >
+
       <label for="login_input_password" class="login_label">Password</label>
       <input name="password" class="login_input input_password" id="login_input_password" type="password" >
-      <input type="submit" class="login_submit" value="Log in">
+
+      <input type="submit" class="button_action login_submit" value="Log in">
     </form>
 
     <% flash.each do |_, msg| %>
@@ -28,5 +30,7 @@
         <%= msg %>
       </div>
     <% end %>
+
+    <% link_to "Sign up", registration_registration_path, class: "button_action button_register" %>
   </div>
 </div>

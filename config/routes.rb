@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  get 'registration/registration'
+  post 'registration/register'
+
   get 'post/post'
   post 'post/add'
 

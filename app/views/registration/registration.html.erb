@@ -1,0 +1,42 @@
+<div class="wrapper">
+  <div class="header">
+    <div class="header_side">
+      <%= link_to "Home", home_index_path, class: "button_action button_home" %>
+    </div>
+    <div class="title">
+      <h1>FlaringBlog</h1>
+    </div>
+    <div class="header_side">
+    </div>
+  </div>
+
+  <div class="content" id="content">
+    <h2>Registration</h2>
+
+    <form method="post" action="/registration/register" enctype="multipart/form-data" class="form_register">
+
+      <label for="register_input_email" class="register_label">Email</label>
+      <input name="email" class="register_input input_email" id="register_input_email" type="text" value="<%= @email %>">
+
+      <label for="register_input_password" class="register_label">Password</label>
+      <input name="password" class="register_input input_password" id="register_input_password" type="password" value="<%= @password %>">
+
+      <label for="register_input_nickname" class="register_label">Nickname</label>
+      <input name="nickname" class="register_input input_nickname" id="register_input_nickname" type="text" value="<%= @nickname %>">
+
+      <label for="register_select_image" class="register_label">Avatar</label>
+      <input name="avatar" class="register_upload" type="file" accept="image/*" value="<%= @avatar %>">
+
+      <label for="register_input_description" class="register_label">About you</label>
+      <textarea name="description" class="register_input" id="register_input_description" rows="5"><%= @description %></textarea>
+
+      <input type="submit" class="button_action register_submit" value="Sign up">
+    </form>
+
+    <% flash.each do |_, msg| %>
+      <div class="message_error">
+        <%= msg %>
+      </div>
+    <% end %>
+  </div>
+</div>

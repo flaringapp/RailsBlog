@@ -1,20 +1,5 @@
 .button_home {
-  tab-index: 1;
-  background: cadetblue;
-  color: white;
-  padding: 10px 20px;
   margin-left: 20px;
-  border-radius: 4px;
-  font-size: 15px;
-  outline: none;
-  text-decoration: none;
-  transition-duration: 250ms;
-  &:hover {
-    background: steelblue;
-  }
-  &:active {
-    background: midnightblue;
-  }
 }
 
 .content {
@@ -30,20 +15,20 @@
   font-weight: bold;
 }
 
-.form_login {
+.form_register {
   width: 600px;
   display: flex;
   flex-direction: column;
 }
 
-.login_label {
+.register_label {
   padding: 10px 0;
   font-size: 15px;
   font-weight: bold;
   color: #333333;
 }
 
-.login_input {
+.register_input {
   padding: 5px;
   color: black;
   font-size: 15px;
@@ -52,11 +37,7 @@
   border-radius: 4px;
 }
 
-.login_submit {
+.register_submit {
   align-self: center;
   margin-top: 20px;
-}
-
-.button_register {
-  margin-top: 50px;
 }

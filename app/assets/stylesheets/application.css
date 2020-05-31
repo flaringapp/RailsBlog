@@ -18,6 +18,10 @@ body {
     background: #FCFCFC;
 }
 
+textarea {
+    resize: none;
+}
+
 .header {
     width: 100%;
     background: whitesmoke;
@@ -55,4 +59,22 @@ body {
     padding: 20px;
     font-size: 15px;
     font-weight: bold;
+}
+
+.button_action {
+    background: cadetblue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 15px;
+    outline: none;
+    text-decoration: none;
+    transition-duration: 250ms;
+}
+
+.button_action:hover {
+    background: steelblue;
+}
+.button_action:active {
+    background: midnightblue;
 }

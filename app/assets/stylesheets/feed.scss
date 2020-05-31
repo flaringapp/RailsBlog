@@ -11,23 +11,6 @@
   justify-content: flex-end;
 }
 
-.button_feed_action {
-  background: cadetblue;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 4px;
-  font-size: 15px;
-  outline: none;
-  text-decoration: none;
-  transition-duration: 250ms;
-  &:hover {
-    background: steelblue;
-  }
-  &:active {
-    background: midnightblue;
-  }
-}
-
 .button_create_post {
   margin-right: 20px;
 }
