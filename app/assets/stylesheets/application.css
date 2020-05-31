@@ -14,6 +14,10 @@
  *= require_self
  */
 
+body {
+    background: #FCFCFC;
+}
+
 .header {
     width: 100%;
     background: whitesmoke;

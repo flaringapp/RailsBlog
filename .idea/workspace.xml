@@ -10,23 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Add login screen">
+    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Implement verifications if user is logged in, fix error message and login error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/feed_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/feed_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/login_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/login_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/post_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/post_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/feed/feed.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/feed/feed.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/login/login.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/login/login.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/ea/9ad9dfe12269b1" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/ea/9ad9dfe12269b1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/pids/server.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/pids/server.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f8/05b0cea750e55b" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f8/05b0cea750e55b" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590663481222</updated>
       <workItem from="1590663482589" duration="10717000" />
-      <workItem from="1590939211191" duration="5237000" />
+      <workItem from="1590939211191" duration="5400000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590668485304</created>
@@ -220,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590943027451</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implement verifications if user is logged in, fix error message and login error">
+      <created>1590945201624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590945201624</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,18 +241,19 @@
     <MESSAGE value="Implement image storage" />
     <MESSAGE value="Redesign title" />
     <MESSAGE value="Add login screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add login screen" />
+    <MESSAGE value="Implement verifications if user is logged in, fix error message and login error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement verifications if user is logged in, fix error message and login error" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590663825692">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590663825692" />
-    <state x="1259" y="203" key="#xdebugger.evaluate" timestamp="1590944898374">
+    <state x="1259" y="203" key="#xdebugger.evaluate" timestamp="1590945150573">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="826" y="149" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1590667721442" />
-    <state x="1259" y="203" key="#xdebugger.evaluate/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944898374" />
+    <state x="1259" y="203" key="#xdebugger.evaluate/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945150573" />
     <state x="256" y="133" key="DiffContextDialog" timestamp="1590939240684">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -342,11 +339,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1067" y="637" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944276948" />
-    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590942768671">
+    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590945266995">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="542" y="264" width="596" height="522" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590762262196" />
-    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590942768671" />
+    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590945266995" />
     <state x="621" y="427" key="git4idea.ui.GitStashDialog" timestamp="1590761878165">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -360,20 +357,6 @@
     </state>
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590699920624" />
     <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590943362524" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/app/controllers/feed_controller.rb</url>
-          <line>2</line>
-          <properties myBlockOrdinal="-1">
-            <option name="block-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/blog@Development__blog.rcov" NAME="Development: blog Coverage Results" MODIFIED="1590944806763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="blog" />
