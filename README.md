@@ -5,6 +5,7 @@ Simple blog written with Ruby on Rails
 P.S. commits are spammed with cache files :no_mouth:. I just forgot to use gitignore. And used RubyMine. So yes. It's JetBrains. Tons of cache files :dizzy_face:
 
 **Note!**
+
 Select image fields are raw - nothing is changed on UI after picking image - so don't be confused about it  
 
 **Entities:**
@@ -26,5 +27,9 @@ Select image fields are raw - nothing is changed on UI after picking image - so 
 * Authorization, registration
 * Likesssss :+1:
 * Simple and kinda minimalistic design
+
+**Known issues:**
+
+* SVG not supported
 
 Hope you enjoy it :yum:
