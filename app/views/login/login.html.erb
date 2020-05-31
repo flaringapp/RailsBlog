@@ -1,2 +1,26 @@
-<h1>Login#login</h1>
-<p>Find me in app/views/login/login.html.erb</p>
+<div class="wrapper">
+  <div class="header">
+    <div class="header_side">
+      <%= link_to "Home", home_index_path, class: "button_home" %>
+    </div>
+    <div class="title">
+      <h1>FlaringBlog</h1>
+    </div>
+    <div class="header_side">
+    </div>
+  </div>
+
+  <div class="content" id="content">
+    <h2>Login</h2>
+
+    <form method="post" action="/login/post" class="form_login">
+      <% token_tag %>
+
+      <label for="login_input_email" class="login_label">Email</label>
+      <input name="login" class="login_input input_email" id="login_input_email" type="text" >
+      <label for="login_input_password" class="login_label">Password</label>
+      <input name="password" class="login_input input_password" id="login_input_password" type="password" >
+      <input type="submit" class="login_submit" value="Log in">
+    </form>
+  </div>
+</div>

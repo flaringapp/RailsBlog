@@ -45,3 +45,9 @@
     font-size: 40px;
     color: cadetblue;
 }
+
+.message_error {
+    color: #333333;
+    padding: 10px;
+    font-size: 20px;
+}
