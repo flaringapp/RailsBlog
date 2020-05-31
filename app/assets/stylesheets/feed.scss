@@ -72,8 +72,28 @@
   width: 100%;
 }
 
+.container_post_bottom {
+  padding: 10px;
+}
+
+.container_likes {
+  display: inline-flex;
+  align-items: center;
+}
+
+.feed_like_image {
+  width: 20px;
+  height: 20px;
+}
+
+.feed_likes_count {
+  margin-left: 10px;
+  color: #333333;
+  font-size: 13px;
+}
+
 .container_message {
-  margin: 10px;
+  margin-top: 10px;
 }
 
 .container_message p {

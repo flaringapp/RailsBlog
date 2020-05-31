@@ -7,6 +7,9 @@ class FeedController < ApplicationController
     end
 
     @posts = Post.all.order("created_at DESC")
+    @posts.each do |post|
+      post.init
+    end
 
     user = User.find(user_id)
 

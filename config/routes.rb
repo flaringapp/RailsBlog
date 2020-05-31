@@ -4,6 +4,7 @@ Rails.application.routes.draw do
 
   get 'post/post'
   post 'post/add'
+  post 'post/like'
 
   get 'feed/feed'
   post 'feed/logout'

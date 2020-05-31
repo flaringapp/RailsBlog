@@ -22,8 +22,14 @@
           <p><%= post.creator_name %></p>
         </div>
         <%= image_tag(post.image, class: "image") %>
-        <div class="container_message">
-          <p><%= post.message %></p>
+        <div class="container_post_bottom">
+          <div class="container_likes">
+            <%= link_to image_tag(post.like_image(session[:user_id]), border: 0), post_like_path(:post_id => post.id), method: :post, class: "feed_like_image" %>
+            <p class="feed_likes_count"><%= post.format_likes_count %></p>
+          </div>
+          <div class="container_message">
+            <p><%= post.message %></p>
+          </div>
         </div>
       </div>
     <% end %>

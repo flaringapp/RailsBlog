@@ -22,6 +22,28 @@ class PostController < ApplicationController
     redirect_to('/feed/feed')
   end
 
+  def like
+    user_id = session[:user_id]
+
+    unless user_id
+      return
+    end
+
+    post_id = params["post_id"]
+
+    like = Like.find_by(user_id: user_id, post_id: post_id)
+
+    if like
+      like.destroy
+    else
+      @like = Like.create(user_id: user_id, post_id: post_id)
+    end
+
+    redirect_to feed_feed_path
+  end
+
+  private
+
   def validate_params
     unless params[:image]
       show_error "Please select image"
