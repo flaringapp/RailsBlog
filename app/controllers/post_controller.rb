@@ -3,6 +3,9 @@ class PostController < ApplicationController
   TEST_CREATOR = 1
 
   def post
+    unless session[:user_id]
+      redirect_to login_login_path
+    end
   end
 
   def add

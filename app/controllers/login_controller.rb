@@ -1,12 +1,14 @@
 class LoginController < ApplicationController
+  skip_before_action :verify_authenticity_token, raise: false
+
   def login
-    unless session["user_id"]
+    if session["user_id"]
       redirect_to feed_feed_path
     end
   end
 
   def post
-    @user = User.find_by email: params[:login], password: params[:password]
+    @user = User.find_by("(email = ? OR nickname = ?) AND password = ?", params["login"], params[:login], params["password"])
 
     unless @user
       redirect_to login_login_path, notice: "Invalid login or password!"
