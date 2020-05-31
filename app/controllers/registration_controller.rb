@@ -14,7 +14,8 @@ class RegistrationController < ApplicationController
 
     @user = User.create(post_params)
 
-    redirect_to(feed_feed_path)
+    session[:user_id] = @user.id
+    redirect_to feed_feed_path
   end
 
   private
