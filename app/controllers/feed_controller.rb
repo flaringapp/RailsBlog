@@ -9,8 +9,14 @@ class FeedController < ApplicationController
     @posts = Post.all.order("created_at DESC")
 
     user = User.find(user_id)
-    @user_name = user.nickname
-    @user_avatar = user.avatar
+
+    @user_name = "Deleted user"
+    @user_avatar = User::DEFAULT_AVATAR
+
+    if user
+      @user_name = user.nickname
+      @user_avatar = user.avatar_safe
+    end
   end
 
   def logout

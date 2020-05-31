@@ -24,6 +24,7 @@ textarea {
 
 .header {
     width: 100%;
+    min-width: 1000px;
     background: whitesmoke;
     height: 80px;
     position: fixed;

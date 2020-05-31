@@ -18,7 +18,7 @@
     <% @posts.each do |post| %>
       <div class="post-card">
         <div class="container_creator">
-          <img src="<%= post.creator_image %>">
+          <%= image_tag(post.creator_image) %>
           <p><%= post.creator_name %></p>
         </div>
         <%= image_tag(post.image, class: "image") %>
