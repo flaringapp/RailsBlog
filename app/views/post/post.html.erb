@@ -11,20 +11,19 @@
   </div>
 
   <div class="container_new_post" id="content">
-    <form method="post" action="/post/add" enctype="multipart/form-data" class="form_post">
+    <form method="post" action="/post/add" enctype="multipart/form-data" class="form_new_post">
       <%= token_tag %>
 
-      <div class="form-group">
-        <label for="image">Image</label>
-        <input name="image" class="form-control media-upload" type="file" accept="image/*">
+      <label for="image" class="label_new_post">Image</label>
+      <div class="upload_wrapper">
+        <button class="button_upload">Select image</button>
+        <input name="image" type="file" accept="image/*">
       </div>
-      <div class="form-group">
-        <label for="message">Message</label>
-        <textarea name="message" class="form-control" cols="30" rows="10"></textarea>
-      </div>
-      <div class="from-group">
-        <div><button type="submit" class="button_action button_create_post_submit">Create Post</button></div>
-      </div>
+
+      <label for="input_message" class="label_new_post">Message</label>
+      <textarea name="input_message" class="input_new_post" rows="3"></textarea>
+
+      <button type="submit" class="button_action button_new_post_submit">Create Post</button>
     </form>
 
     <% flash.each do |_, msg| %>

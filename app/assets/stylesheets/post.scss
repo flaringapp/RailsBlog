@@ -7,16 +7,31 @@
   text-align: center;
 }
 
-.form_post{
+.form_new_post{
+  width: 500px;
   display: flex;
-  width: 50%;
   flex-direction: column;
   margin: 20px auto;
 }
 
-.form-group{
-  display: flex;
-  justify-content: space-between;
-  margin: 5px 0;
-  align-items: center;
+.label_new_post {
+  padding: 20px 0;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333333;
+}
+
+.input_new_post {
+  padding: 5px;
+  color: black;
+  font-size: 15px;
+  background: white;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+}
+
+.button_new_post_submit {
+  margin-top: 20px;
+  align-self: center;
+  font-size: 20px !important;
 }

@@ -32,6 +32,8 @@ button {
     outline: inherit;
 }
 
+/*Header*/
+
 .header {
     width: 100%;
     min-width: 1000px;
@@ -65,12 +67,16 @@ button {
     color: cadetblue;
 }
 
+/*Error*/
+
 .message_error {
     color: #b13333;
     padding: 20px;
     font-size: 15px;
     font-weight: bold;
 }
+
+/*Button*/
 
 .button_action {
     background: cadetblue;
@@ -88,4 +94,28 @@ button {
 }
 .button_action:active {
     background: midnightblue;
+}
+
+/*Upload file*/
+.upload_wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.button_upload {
+    border: 2px solid gray;
+    color: gray;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+
+.upload_wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
 }
