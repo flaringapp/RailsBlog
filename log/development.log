@@ -20754,3 +20754,1090 @@ Processing by LoginController#login as HTML
 Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms | Allocations: 17687)
 
 
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:57:11 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 88)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 4923)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:58:39 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 4395)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:58:48 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 172)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 5359)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:58:52 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 100)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 5285)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:59:18 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms | Allocations: 16675)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:59:43 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms | Allocations: 17083)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:59:46 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 22ms (Views: 21.4ms | ActiveRecord: 0.0ms | Allocations: 17948)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:59:50 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 17976)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:00:12 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 5295)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:00:20 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 25ms (Views: 24.5ms | ActiveRecord: 0.0ms | Allocations: 17917)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:00:30 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 30ms (Views: 29.4ms | ActiveRecord: 0.0ms | Allocations: 17568)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:00:52 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4267)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:00:54 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 5291)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:00:59 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 4262)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:01:09 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 102)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 5285)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:01:15 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms | Allocations: 5297)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:01:18 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 100)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 5283)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:01:21 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4263)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:01:22 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 99)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 5282)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:01:48 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 223)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 5411)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:01:49 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.8ms | Allocations: 374)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 5189)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:02:13 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms | Allocations: 17168)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:02:40 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms | Allocations: 6397)
+
+
+  
+ActionView::Template::Error (Error: Invalid CSS after "  font-size: 30px;": expected "}", was "!important;"
+        on line 12:19 of app/assets/stylesheets/home.scss
+>>   font-size: 30px; !important;
+
+   ------------------^
+):
+     5:   <%= csrf_meta_tags %>
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: 
+  
+app/assets/stylesheets/home.scss:12
+app/views/layouts/application.html.erb:8
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:02:53 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms | Allocations: 17571)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:02:56 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 22ms (Views: 21.2ms | ActiveRecord: 0.0ms | Allocations: 19269)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:03:08 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 32ms (Views: 32.0ms | ActiveRecord: 0.0ms | Allocations: 18064)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:03:10 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.9ms | Allocations: 352)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 5158)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:03:11 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4341)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:03:12 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4390)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:03:24 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.2ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4380)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:03:24 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4375)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:03:26 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4303)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:03:27 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 14ms (Views: 13.2ms | ActiveRecord: 0.0ms | Allocations: 4335)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:05:38 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4375)
+
+
+Started POST "/login/post" for 127.0.0.1 at 2020-05-31 23:05:46 +0300
+Processing by LoginController#post as HTML
+  Parameters: {"login"=>"asd", "password"=>"[FILTERED]"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE ((email = 'asd' OR nickname = 'asd') AND password = 'asd') LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/controllers/login_controller.rb:11:in `post'
+Redirected to http://0.0.0.0:3000/feed/feed
+Completed 302 Found in 1ms (ActiveRecord: 0.2ms | Allocations: 989)
+
+
+Started GET "/feed/feed" for 127.0.0.1 at 2020-05-31 23:05:46 +0300
+Processing by FeedController#feed as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/feed_controller.rb:11:in `feed'
+  [1m[36mActiveStorage::Attachment Load (0.2ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  Rendering feed/feed.html.erb within layouts/application
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:12
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY created_at DESC[0m
+  ↳ app/views/feed/feed.html.erb:18
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mCACHE ActiveStorage::Attachment Load (0.0ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mCACHE ActiveStorage::Blob Load (0.0ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 12], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  Rendered feed/feed.html.erb within layouts/application (Duration: 8.1ms | Allocations: 7069)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 12.9ms | ActiveRecord: 0.8ms | Allocations: 13488)
+
+
+Started GET "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d836984dfb1aa674b4708aedadd7f7f4e152f16c/Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:05:46 +0300
+Started GET "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8abc4ad872aba4440b6e6540ef48bed8fa75d0a4/Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:05:46 +0300
+Processing by ActiveStorage::BlobsController#show as PNG
+  Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d836984dfb1aa674b4708aedadd7f7f4e152f16c", "filename"=>"Untitled-1"}
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveStorage::Blob Load (0.2ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+[36m  Disk Storage (0.5ms) [0m[34mGenerated URL for file at key: ukskvzfc9zs09nmwwnbpao52tjk2 (http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png)[0m
+Redirected to http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png
+Completed 302 Found in 6ms (ActiveRecord: 0.2ms | Allocations: 3373)
+
+
+Processing by ActiveStorage::BlobsController#show as PNG
+  Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8abc4ad872aba4440b6e6540ef48bed8fa75d0a4", "filename"=>"Untitled-1"}
+  [1m[36mActiveStorage::Blob Load (0.2ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 12], ["LIMIT", 1]]
+[36m  Disk Storage (0.4ms) [0m[34mGenerated URL for file at key: 3twfzq5sinept9hrs9rg5pk2g5qd (http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png)[0m
+Redirected to http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms | Allocations: 1785)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:05:46 +0300
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde", "filename"=>"Untitled-1"}
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 343)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:05:46 +0300
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9", "filename"=>"Untitled-1"}
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 346)
+
+
+Started POST "/feed/logout" for 127.0.0.1 at 2020-05-31 23:05:48 +0300
+Processing by FeedController#logout as HTML
+  Parameters: {"authenticity_token"=>"G4XHR+It6vSqXMLYBRVzn9oxCY25tC/7tFBit+YI9R6QJ60Qv85zz+d9kOLtmUWw3IW2sCKY1Tv2Pz/ywp3cdg=="}
+Redirected to http://0.0.0.0:3000/home/index
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms | Allocations: 327)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:05:48 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4343)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:05:48 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4392)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:05:51 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 61)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 4311)
+
+
+Started POST "/registration/register" for 127.0.0.1 at 2020-05-31 23:06:20 +0300
+Processing by RegistrationController#register as HTML
+  Parameters: {"email"=>"test@test.com", "password"=>"[FILTERED]", "nickname"=>"test", "avatar"=>#<ActionDispatch::Http::UploadedFile:0x00007f90029044f0 @tempfile=#<Tempfile:/var/folders/_g/0hf6xkdj7pvdjw2lw7hrlfjm0000gn/T/RackMultipart20200531-8629-1qutmh6.gif>, @original_filename="ezgif.com-resize.gif", @content_type="image/gif", @headers="Content-Disposition: form-data; name=\"avatar\"; filename=\"ezgif.com-resize.gif\"\r\nContent-Type: image/gif\r\n">, "description"=>"asdads"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+  [1m[36mUser Create (0.7ms)[0m  [1m[32mINSERT INTO "users" ("nickname", "description", "created_at", "updated_at", "password", "email") VALUES (?, ?, ?, ?, ?, ?)[0m  [["nickname", "test"], ["description", "asdads"], ["created_at", "2020-05-31 20:06:20.134915"], ["updated_at", "2020-05-31 20:06:20.134915"], ["password", "test"], ["email", "test@test.com"]]
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+  [1m[36mActiveStorage::Blob Load (0.2ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" INNER JOIN "active_storage_attachments" ON "active_storage_blobs"."id" = "active_storage_attachments"."blob_id" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+  [1m[36mActiveStorage::Blob Create (0.2ms)[0m  [1m[32mINSERT INTO "active_storage_blobs" ("key", "filename", "content_type", "metadata", "byte_size", "checksum", "created_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["key", "l25wpeztouu6heoelqzqxtzzq06e"], ["filename", "ezgif.com-resize.gif"], ["content_type", "image/gif"], ["metadata", "{\"identified\":true}"], ["byte_size", 4102926], ["checksum", "vPDvt+cD8/0SM5c6aSNXKg=="], ["created_at", "2020-05-31 20:06:20.202933"]]
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+  [1m[36mActiveStorage::Attachment Create (0.1ms)[0m  [1m[32mINSERT INTO "active_storage_attachments" ("name", "record_type", "record_id", "blob_id", "created_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "avatar"], ["record_type", "User"], ["record_id", 3], ["blob_id", 13], ["created_at", "2020-05-31 20:06:20.204569"]]
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+  [1m[36mUser Update (0.1ms)[0m  [1m[33mUPDATE "users" SET "updated_at" = ? WHERE "users"."id" = ?[0m  [["updated_at", "2020-05-31 20:06:20.205628"], ["id", 3]]
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+  [1m[35m (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/registration_controller.rb:15:in `register'
+[36m  Disk Storage (12.8ms) [0m[32mUploaded file to key: l25wpeztouu6heoelqzqxtzzq06e (checksum: vPDvt+cD8/0SM5c6aSNXKg==)[0m
+[ActiveJob] Enqueued ActiveStorage::AnalyzeJob (Job ID: 7af56064-76db-4121-99e5-7ba1c1667756) to Async(active_storage_analysis) with arguments: #<GlobalID:0x00007f9006983378 @uri=#<URI::GID gid://blog/ActiveStorage::Blob/13>>
+Redirected to http://0.0.0.0:3000/feed/feed
+Completed 302 Found in 111ms (ActiveRecord: 2.2ms | Allocations: 54345)
+
+
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+[ActiveJob] [ActiveStorage::AnalyzeJob] [7af56064-76db-4121-99e5-7ba1c1667756] Performing ActiveStorage::AnalyzeJob (Job ID: 7af56064-76db-4121-99e5-7ba1c1667756) from Async(active_storage_analysis) enqueued at 2020-05-31T20:06:20Z with arguments: #<GlobalID:0x00007f90069d0650 @uri=#<URI::GID gid://blog/ActiveStorage::Blob/13>>
+Started GET "/feed/feed" for 127.0.0.1 at 2020-05-31 23:06:20 +0300
+Processing by FeedController#feed as HTML
+Redirected to http://0.0.0.0:3000/login/login
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms | Allocations: 271)
+
+
+[ActiveJob] [ActiveStorage::AnalyzeJob] [7af56064-76db-4121-99e5-7ba1c1667756] [36m  Disk Storage (2.6ms) [0m[34mDownloaded file from key: l25wpeztouu6heoelqzqxtzzq06e[0m
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:06:20 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[ActiveJob] [ActiveStorage::AnalyzeJob] [7af56064-76db-4121-99e5-7ba1c1667756] Skipping image analysis because the mini_magick gem isn't installed
+[ActiveJob] [ActiveStorage::AnalyzeJob] [7af56064-76db-4121-99e5-7ba1c1667756]   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+[ActiveJob] [ActiveStorage::AnalyzeJob] [7af56064-76db-4121-99e5-7ba1c1667756]   [1m[36mActiveStorage::Blob Update (0.3ms)[0m  [1m[33mUPDATE "active_storage_blobs" SET "metadata" = ? WHERE "active_storage_blobs"."id" = ?[0m  [["metadata", "{\"identified\":true,\"analyzed\":true}"], ["id", 13]]
+[ActiveJob] [ActiveStorage::AnalyzeJob] [7af56064-76db-4121-99e5-7ba1c1667756]   [1m[35m (0.5ms)[0m  [1m[36mcommit transaction[0m
+[ActiveJob] [ActiveStorage::AnalyzeJob] [7af56064-76db-4121-99e5-7ba1c1667756] Performed ActiveStorage::AnalyzeJob (Job ID: 7af56064-76db-4121-99e5-7ba1c1667756) from Async(active_storage_analysis) in 30.13ms
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 8502)
+
+
+Started POST "/login/post" for 127.0.0.1 at 2020-05-31 23:06:24 +0300
+Processing by LoginController#post as HTML
+  Parameters: {"login"=>"test", "password"=>"[FILTERED]"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE ((email = 'test' OR nickname = 'test') AND password = 'test') LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/controllers/login_controller.rb:11:in `post'
+Redirected to http://0.0.0.0:3000/feed/feed
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms | Allocations: 993)
+
+
+Started GET "/feed/feed" for 127.0.0.1 at 2020-05-31 23:06:24 +0300
+Processing by FeedController#feed as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/feed_controller.rb:11:in `feed'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  Rendering feed/feed.html.erb within layouts/application
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:12
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY created_at DESC[0m
+  ↳ app/views/feed/feed.html.erb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 12], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  Rendered feed/feed.html.erb within layouts/application (Duration: 17.3ms | Allocations: 6911)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 32ms (Views: 26.3ms | ActiveRecord: 1.3ms | Allocations: 12724)
+
+
+Started GET "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b41619441136c3e197271c3ac9c901b591071a5/ezgif.com-resize.gif" for 127.0.0.1 at 2020-05-31 23:06:24 +0300
+Processing by ActiveStorage::BlobsController#show as GIF
+  Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b41619441136c3e197271c3ac9c901b591071a5", "filename"=>"ezgif.com-resize"}
+  [1m[36mActiveStorage::Blob Load (0.2ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+[36m  Disk Storage (0.4ms) [0m[34mGenerated URL for file at key: l25wpeztouu6heoelqzqxtzzq06e (http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4/ezgif.com-resize.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22ezgif.com-resize.gif%22%3B+filename%2A%3DUTF-8%27%27ezgif.com-resize.gif)[0m
+Redirected to http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4/ezgif.com-resize.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22ezgif.com-resize.gif%22%3B+filename%2A%3DUTF-8%27%27ezgif.com-resize.gif
+Completed 302 Found in 7ms (ActiveRecord: 0.2ms | Allocations: 2162)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:06:24 +0300
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:06:24 +0300
+Processing by ActiveStorage::DiskController#show as PNG
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9", "filename"=>"Untitled-1"}
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4/ezgif.com-resize.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22ezgif.com-resize.gif%22%3B+filename%2A%3DUTF-8%27%27ezgif.com-resize.gif" for 127.0.0.1 at 2020-05-31 23:06:24 +0300
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde", "filename"=>"Untitled-1"}
+Completed 200 OK in 2ms (ActiveRecord: 0.0ms | Allocations: 348)
+
+
+Completed 200 OK in 2ms (ActiveRecord: 0.0ms | Allocations: 648)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ActiveStorage::DiskController#show as GIF
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"ezgif.com-resize.gif\"; filename*=UTF-8''ezgif.com-resize.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4", "filename"=>"ezgif.com-resize"}
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 345)
+
+
+Started GET "/post/post" for 127.0.0.1 at 2020-05-31 23:06:44 +0300
+Processing by PostController#post as HTML
+  Rendering post/post.html.erb within layouts/application
+  Rendered post/post.html.erb within layouts/application (Duration: 1.0ms | Allocations: 251)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 5083)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4/ezgif.com-resize.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22ezgif.com-resize.gif%22%3B+filename%2A%3DUTF-8%27%27ezgif.com-resize.gif" for 127.0.0.1 at 2020-05-31 23:06:44 +0300
+Processing by ActiveStorage::DiskController#show as GIF
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"ezgif.com-resize.gif\"; filename*=UTF-8''ezgif.com-resize.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4", "filename"=>"ezgif.com-resize"}
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 377)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:06:44 +0300
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:06:44 +0300
+Processing by ActiveStorage::DiskController#show as PNG
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde", "filename"=>"Untitled-1"}
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9", "filename"=>"Untitled-1"}
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 682)
+
+
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 402)
+
+
+Started POST "/post/add" for 127.0.0.1 at 2020-05-31 23:06:57 +0300
+Processing by PostController#add as HTML
+  Parameters: {"authenticity_token"=>"CZDY0opthoNv1MfWCrh4CcEY+Oa5n8lNn8TnHt2EG7Cog4PbHV6/8nZr797kLgsW6WlubZbSHkLyXKqT7Q4Ntw==", "image"=>#<ActionDispatch::Http::UploadedFile:0x00007f9000910810 @tempfile=#<Tempfile:/var/folders/_g/0hf6xkdj7pvdjw2lw7hrlfjm0000gn/T/RackMultipart20200531-8629-1oal0vz.gif>, @original_filename="anim_hoozie_character.gif", @content_type="image/gif", @headers="Content-Disposition: form-data; name=\"image\"; filename=\"anim_hoozie_character.gif\"\r\nContent-Type: image/gif\r\n">, "message"=>"hoozies"}
+[31mUnpermitted parameter: :authenticity_token[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[36mPost Create (0.3ms)[0m  [1m[32mINSERT INTO "posts" ("message", "creator_id", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["message", "hoozies"], ["creator_id", 3], ["created_at", "2020-05-31 20:06:57.767960"], ["updated_at", "2020-05-31 20:06:57.767960"]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[36mActiveStorage::Blob Load (0.2ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" INNER JOIN "active_storage_attachments" ON "active_storage_blobs"."id" = "active_storage_attachments"."blob_id" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[36mActiveStorage::Attachment Destroy (0.2ms)[0m  [1m[31mDELETE FROM "active_storage_attachments" WHERE "active_storage_attachments"."id" = ?[0m  [["id", 11]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[36mActiveStorage::Blob Create (0.2ms)[0m  [1m[32mINSERT INTO "active_storage_blobs" ("key", "filename", "content_type", "metadata", "byte_size", "checksum", "created_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["key", "k4km5bcdojaacj517u7u08gfwjwy"], ["filename", "anim_hoozie_character.gif"], ["content_type", "image/gif"], ["metadata", "{\"identified\":true}"], ["byte_size", 1431422], ["checksum", "tdI/OLKnJh2v7NmT9+4jQw=="], ["created_at", "2020-05-31 20:06:57.783416"]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[36mActiveStorage::Attachment Create (0.1ms)[0m  [1m[32mINSERT INTO "active_storage_attachments" ("name", "record_type", "record_id", "blob_id", "created_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "image"], ["record_type", "Post"], ["record_id", 2], ["blob_id", 14], ["created_at", "2020-05-31 20:06:57.785204"]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[36mPost Update (0.1ms)[0m  [1m[33mUPDATE "posts" SET "updated_at" = ? WHERE "posts"."id" = ?[0m  [["updated_at", "2020-05-31 20:06:57.786341"], ["id", 2]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/post_controller.rb:16:in `add'
+[36m  Disk Storage (6.2ms) [0m[32mUploaded file to key: k4km5bcdojaacj517u7u08gfwjwy (checksum: tdI/OLKnJh2v7NmT9+4jQw==)[0m
+  [1m[36mActiveStorage::Blob Load (0.2ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 11], ["LIMIT", 1]]
+  ↳ app/controllers/post_controller.rb:16:in `add'
+[ActiveJob] Enqueued ActiveStorage::PurgeJob (Job ID: e2135371-87f4-42f9-92b0-1542ed420e5f) to Async(active_storage_purge) with arguments: #<GlobalID:0x00007f9002c9e458 @uri=#<URI::GID gid://blog/ActiveStorage::Blob/11>>
+[ActiveJob] Enqueued ActiveStorage::AnalyzeJob (Job ID: e6622108-481d-432e-885c-ff9364ecba04) to Async(active_storage_analysis) with arguments: #<GlobalID:0x00007f9002ca4010 @uri=#<URI::GID gid://blog/ActiveStorage::Blob/14>>
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 11], ["LIMIT", 1]]
+Redirected to http://0.0.0.0:3000/feed/feed
+Completed 302 Found in 38ms (ActiveRecord: 2.3ms | Allocations: 20061)
+
+
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f] Performing ActiveStorage::PurgeJob (Job ID: e2135371-87f4-42f9-92b0-1542ed420e5f) from Async(active_storage_purge) enqueued at 2020-05-31T20:06:57Z with arguments: #<GlobalID:0x00007f9002cfc5f8 @uri=#<URI::GID gid://blog/ActiveStorage::Blob/11>>
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 14], ["LIMIT", 1]]
+[ActiveJob] [ActiveStorage::AnalyzeJob] [e6622108-481d-432e-885c-ff9364ecba04] Performing ActiveStorage::AnalyzeJob (Job ID: e6622108-481d-432e-885c-ff9364ecba04) from Async(active_storage_analysis) enqueued at 2020-05-31T20:06:57Z with arguments: #<GlobalID:0x00007f9002d2b6c8 @uri=#<URI::GID gid://blog/ActiveStorage::Blob/14>>
+Started GET "/feed/feed" for 127.0.0.1 at 2020-05-31 23:06:57 +0300
+[ActiveJob] [ActiveStorage::AnalyzeJob] [e6622108-481d-432e-885c-ff9364ecba04] [36m  Disk Storage (3.8ms) [0m[34mDownloaded file from key: k4km5bcdojaacj517u7u08gfwjwy[0m
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f]   [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f]   [1m[36mActiveStorage::Attachment Exists? (0.1ms)[0m  [1m[34mSELECT 1 AS one FROM "active_storage_attachments" WHERE "active_storage_attachments"."blob_id" = ? LIMIT ?[0m  [["blob_id", 11], ["LIMIT", 1]]
+Processing by FeedController#feed as HTML
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f]   [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 11], ["record_type", "ActiveStorage::Blob"], ["name", "preview_image"], ["LIMIT", 1]]
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f]   [1m[36mActiveStorage::Blob Destroy (0.3ms)[0m  [1m[31mDELETE FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ?[0m  [["id", 11]]
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f]   [1m[35m (0.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/feed_controller.rb:11:in `feed'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f] [36m  Disk Storage (0.5ms) [0m[31mDeleted file from key: 53ufsx40bqr78kiirjadqx6dusca[0m
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f] [36m  Disk Storage (0.1ms) [0m[31mDeleted files by key prefix: variants/53ufsx40bqr78kiirjadqx6dusca/[0m
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  Rendering feed/feed.html.erb within layouts/application
+[ActiveJob] [ActiveStorage::PurgeJob] [e2135371-87f4-42f9-92b0-1542ed420e5f] Performed ActiveStorage::PurgeJob (Job ID: e2135371-87f4-42f9-92b0-1542ed420e5f) from Async(active_storage_purge) in 19.24ms
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:12
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY created_at DESC[0m
+  ↳ app/views/feed/feed.html.erb:18
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mCACHE ActiveStorage::Attachment Load (0.0ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mCACHE ActiveStorage::Blob Load (0.0ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 14], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 12], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  Rendered feed/feed.html.erb within layouts/application (Duration: 13.7ms | Allocations: 12038)
+[ActiveJob] [ActiveStorage::AnalyzeJob] [e6622108-481d-432e-885c-ff9364ecba04] Skipping image analysis because the mini_magick gem isn't installed
+[ActiveJob] [ActiveStorage::AnalyzeJob] [e6622108-481d-432e-885c-ff9364ecba04]   [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+[ActiveJob] [ActiveStorage::AnalyzeJob] [e6622108-481d-432e-885c-ff9364ecba04]   [1m[36mActiveStorage::Blob Update (0.3ms)[0m  [1m[33mUPDATE "active_storage_blobs" SET "metadata" = ? WHERE "active_storage_blobs"."id" = ?[0m  [["metadata", "{\"identified\":true,\"analyzed\":true}"], ["id", 14]]
+[ActiveJob] [ActiveStorage::AnalyzeJob] [e6622108-481d-432e-885c-ff9364ecba04]   [1m[35m (0.6ms)[0m  [1m[36mcommit transaction[0m
+[ActiveJob] [ActiveStorage::AnalyzeJob] [e6622108-481d-432e-885c-ff9364ecba04] Performed ActiveStorage::AnalyzeJob (Job ID: e6622108-481d-432e-885c-ff9364ecba04) from Async(active_storage_analysis) in 38.87ms
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 30ms (Views: 23.6ms | ActiveRecord: 1.1ms | Allocations: 25014)
+
+
+Started GET "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--38bb5c301e2b4ede8f76cdad15f3f8f19f48d438/anim_hoozie_character.gif" for 127.0.0.1 at 2020-05-31 23:06:57 +0300
+Processing by ActiveStorage::BlobsController#show as GIF
+  Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--38bb5c301e2b4ede8f76cdad15f3f8f19f48d438", "filename"=>"anim_hoozie_character"}
+  [1m[36mActiveStorage::Blob Load (0.2ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 14], ["LIMIT", 1]]
+[36m  Disk Storage (0.4ms) [0m[34mGenerated URL for file at key: k4km5bcdojaacj517u7u08gfwjwy (http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795/anim_hoozie_character.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22anim_hoozie_character.gif%22%3B+filename%2A%3DUTF-8%27%27anim_hoozie_character.gif)[0m
+Redirected to http://0.0.0.0:3000/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795/anim_hoozie_character.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22anim_hoozie_character.gif%22%3B+filename%2A%3DUTF-8%27%27anim_hoozie_character.gif
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms | Allocations: 1766)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4/ezgif.com-resize.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22ezgif.com-resize.gif%22%3B+filename%2A%3DUTF-8%27%27ezgif.com-resize.gif" for 127.0.0.1 at 2020-05-31 23:06:57 +0300
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:06:57 +0300
+Processing by ActiveStorage::DiskController#show as GIF
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"ezgif.com-resize.gif\"; filename*=UTF-8''ezgif.com-resize.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4", "filename"=>"ezgif.com-resize"}
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:06:57 +0300
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 362)
+
+
+Processing by ActiveStorage::DiskController#show as PNG
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795/anim_hoozie_character.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22anim_hoozie_character.gif%22%3B+filename%2A%3DUTF-8%27%27anim_hoozie_character.gif" for 127.0.0.1 at 2020-05-31 23:06:57 +0300
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde", "filename"=>"Untitled-1"}
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9", "filename"=>"Untitled-1"}
+Completed 200 OK in 2ms (ActiveRecord: 0.0ms | Allocations: 364)
+
+
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 362)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ActiveStorage::DiskController#show as GIF
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"anim_hoozie_character.gif\"; filename*=UTF-8''anim_hoozie_character.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795", "filename"=>"anim_hoozie_character"}
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 344)
+
+
+Started GET "/feed/feed" for 127.0.0.1 at 2020-05-31 23:09:20 +0300
+Processing by FeedController#feed as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/feed_controller.rb:11:in `feed'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  Rendering feed/feed.html.erb within layouts/application
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:12
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY created_at DESC[0m
+  ↳ app/views/feed/feed.html.erb:18
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mCACHE ActiveStorage::Attachment Load (0.0ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mCACHE ActiveStorage::Blob Load (0.0ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 14], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 12], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  Rendered feed/feed.html.erb within layouts/application (Duration: 11.6ms | Allocations: 11923)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 43ms (Views: 40.1ms | ActiveRecord: 1.0ms | Allocations: 30605)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4/ezgif.com-resize.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22ezgif.com-resize.gif%22%3B+filename%2A%3DUTF-8%27%27ezgif.com-resize.gif" for 127.0.0.1 at 2020-05-31 23:09:20 +0300
+Processing by ActiveStorage::DiskController#show as GIF
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"ezgif.com-resize.gif\"; filename*=UTF-8''ezgif.com-resize.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4", "filename"=>"ezgif.com-resize"}
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795/anim_hoozie_character.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22anim_hoozie_character.gif%22%3B+filename%2A%3DUTF-8%27%27anim_hoozie_character.gif" for 127.0.0.1 at 2020-05-31 23:09:20 +0300
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 541)
+
+
+Processing by ActiveStorage::DiskController#show as GIF
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:09:20 +0300
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"anim_hoozie_character.gif\"; filename*=UTF-8''anim_hoozie_character.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795", "filename"=>"anim_hoozie_character"}
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:09:20 +0300
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 555)
+
+
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde", "filename"=>"Untitled-1"}
+Processing by ActiveStorage::DiskController#show as PNG
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 1082)
+
+
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9", "filename"=>"Untitled-1"}
+Completed 200 OK in 0ms (ActiveRecord: 0.0ms | Allocations: 344)
+
+
+Started POST "/feed/logout" for 127.0.0.1 at 2020-05-31 23:09:21 +0300
+Processing by FeedController#logout as HTML
+  Parameters: {"authenticity_token"=>"cQScBu+dUN5IY5qIgyyZARw5a0wll/9vrHjx0TizPfrQF8cPeK5pr1HcsoBtuuoeNEj9xwraKGDB4LxcCDkr/Q=="}
+Redirected to http://0.0.0.0:3000/home/index
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms | Allocations: 329)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:09:21 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4340)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:09:25 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 12.3ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 34ms (Views: 33.2ms | ActiveRecord: 0.0ms | Allocations: 16747)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:09:28 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 24ms (Views: 23.8ms | ActiveRecord: 0.0ms | Allocations: 18058)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:09:31 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms | Allocations: 19728)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:09:32 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 4386)
+
+
+Started POST "/login/post" for 127.0.0.1 at 2020-05-31 23:09:40 +0300
+Processing by LoginController#post as HTML
+  Parameters: {"login"=>"asd", "password"=>"[FILTERED]"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE ((email = 'asd' OR nickname = 'asd') AND password = 'asd') LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/controllers/login_controller.rb:11:in `post'
+Redirected to http://0.0.0.0:3000/feed/feed
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms | Allocations: 990)
+
+
+Started GET "/feed/feed" for 127.0.0.1 at 2020-05-31 23:09:40 +0300
+Processing by FeedController#feed as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/feed_controller.rb:11:in `feed'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  Rendering feed/feed.html.erb within layouts/application
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:12
+  [1m[36mPost Load (0.1ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY created_at DESC[0m
+  ↳ app/views/feed/feed.html.erb:18
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mActiveStorage::Blob Load (0.4ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 14], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:14:in `creator_image'
+  [1m[36mCACHE ActiveStorage::Attachment Load (0.0ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mCACHE ActiveStorage::Blob Load (0.0ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 12], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  Rendered feed/feed.html.erb within layouts/application (Duration: 20.2ms | Allocations: 11923)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 31ms (Views: 26.7ms | ActiveRecord: 1.4ms | Allocations: 17739)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:09:40 +0300
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4/ezgif.com-resize.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22ezgif.com-resize.gif%22%3B+filename%2A%3DUTF-8%27%27ezgif.com-resize.gif" for 127.0.0.1 at 2020-05-31 23:09:40 +0300
+Processing by ActiveStorage::DiskController#show as GIF
+Processing by ActiveStorage::DiskController#show as PNG
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795/anim_hoozie_character.gif?content_type=image%2Fgif&disposition=inline%3B+filename%3D%22anim_hoozie_character.gif%22%3B+filename%2A%3DUTF-8%27%27anim_hoozie_character.gif" for 127.0.0.1 at 2020-05-31 23:09:40 +0300
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"ezgif.com-resize.gif\"; filename*=UTF-8''ezgif.com-resize.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhiREkxZDNCbGVuUnZkWFUyYUdWdlpXeHhlbkY0ZEhwNmNUQTJaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1WNloybG1MbU52YlMxeVpYTnBlbVV1WjJsbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGxlbWRwWmk1amIyMHRjbVZ6YVhwbExtZHBaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMMmRwWmdZN0JsUT0iLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjI0LjI1M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--adaa284f1b7b4e65f9652cd80e027b25f763e0d4", "filename"=>"ezgif.com-resize"}
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTMxWiIsInB1ciI6ImJsb2Jfa2V5In19--185fe29073cdfad5be611144326345c289e63fde", "filename"=>"Untitled-1"}
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 23:09:40 +0300
+Completed 200 OK in 2ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 468)
+
+
+Processing by ActiveStorage::DiskController#show as GIF
+  Parameters: {"content_type"=>"image/gif", "disposition"=>"inline; filename=\"anim_hoozie_character.gif\"; filename*=UTF-8''anim_hoozie_character.gif", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhhelJyYlRWaVkyUnZhbUZoWTJvMU1UZDFOM1V3T0dkbWQycDNlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWFdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJGdWFXMWZhRzl2ZW1sbFgyTm9ZWEpoWTNSbGNpNW5hV1lHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzluYVdZR093WlUiLCJleHAiOiIyMDIwLTA1LTMxVDIwOjExOjU3Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--28ada5914e3fec977f01d5c07eae5d345bf98795", "filename"=>"anim_hoozie_character"}
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMjA6MTA6NDYuNTM1WiIsInB1ciI6ImJsb2Jfa2V5In19--f2b5ee5f1be2f0ad83be3e910b8856b22fde4ea9", "filename"=>"Untitled-1"}
+Completed 200 OK in 2ms (ActiveRecord: 0.0ms | Allocations: 363)
+
+
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 666)
+
+
+Started POST "/feed/logout" for 127.0.0.1 at 2020-05-31 23:11:25 +0300
+Processing by FeedController#logout as HTML
+  Parameters: {"authenticity_token"=>"wlc2Y4uO7qsDec2KZQcwsMgwFbfvt0NwTTm15OksgOkh2Sk63C3EH0h2fw8qkVSlY+Cx7XQLAxDeL8fA8Ut0Yw=="}
+Redirected to http://0.0.0.0:3000/home/index
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms | Allocations: 326)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:11:25 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 4331)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:11:27 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 4376)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:11:32 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.2ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 4380)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:11:33 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.2ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4378)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:11:34 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 4379)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:11:37 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 4329)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:11:39 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 4377)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:11:41 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4334)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:11:41 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4383)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:43 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 61)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4307)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:11:45 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 75)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4330)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:45 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 4300)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:47 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 4304)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:49 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 4302)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:49 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4296)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:49 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4298)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:50 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4300)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:11:50 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4300)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:12:19 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4298)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:12:22 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4224)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:12:39 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 4300)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:12:41 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.6ms | Allocations: 342)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 5510)
+
+
+Started GET "/registration/registration" for 127.0.0.1 at 2020-05-31 23:12:44 +0300
+Processing by RegistrationController#registration as HTML
+  Rendering registration/registration.html.erb within layouts/application
+  Rendered registration/registration.html.erb within layouts/application (Duration: 0.5ms | Allocations: 334)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 5496)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:12:56 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 220)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 5053)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:12:57 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 1.1ms | Allocations: 374)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 5187)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:14:24 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 12ms (Views: 11.8ms | ActiveRecord: 0.0ms | Allocations: 4379)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:14:24 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4382)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:14:32 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 4345)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:15:19 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 227)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 30ms (Views: 29.7ms | ActiveRecord: 0.0ms | Allocations: 19490)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 23:15:37 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 21ms (Views: 21.1ms | ActiveRecord: 0.0ms | Allocations: 17177)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 23:15:47 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 1.5ms | Allocations: 374)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms | Allocations: 5196)
+
+

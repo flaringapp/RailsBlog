@@ -1,2 +1,18 @@
-<h1>Home#index</h1>
-<p>Find me in app/views/home/index.html.erb</p>
+<div class="wrapper">
+  <div class="header">
+    <div class="header_side">
+    </div>
+    <div class="title">
+      <h1>FlaringBlog</h1>
+    </div>
+    <div class="header_side">
+    </div>
+  </div>
+
+  <div class="content" id="content">
+    <p class="message">Here should be some cool design but I simply don't have time to design it</p>
+
+    <%= link_to "Log in", login_login_path, class: "button_action button_home_login" %>
+    <%= link_to "Sign up", registration_registration_path, class: "button_action button_home_register" %>
+  </div>
+</div>

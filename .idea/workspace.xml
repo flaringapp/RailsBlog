@@ -10,8 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Fix register button on login screen">
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" afterDir="false" />
+    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Reduce login width">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/development.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db/development.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590663481222</updated>
       <workItem from="1590663482589" duration="10717000" />
-      <workItem from="1590939211191" duration="14035000" />
+      <workItem from="1590939211191" duration="15095000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590668485304</created>
@@ -250,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590954976933</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Reduce login width">
+      <created>1590955029399</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590955029399</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +291,8 @@
     <MESSAGE value="Implement displaying user nick and image on feed screen" />
     <MESSAGE value="Implement displaying images in feed" />
     <MESSAGE value="Fix register button on login screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix register button on login screen" />
+    <MESSAGE value="Reduce login width" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduce login width" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590663825692">
@@ -390,11 +401,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1067" y="637" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944276948" />
-    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590954958826">
+    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590956086455">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="542" y="264" width="596" height="522" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590762262196" />
-    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590954958826" />
+    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590956086455" />
     <state x="621" y="427" key="git4idea.ui.GitStashDialog" timestamp="1590761878165">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
