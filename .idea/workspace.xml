@@ -10,12 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Implement home page">
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/login/login.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/login/login.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/post/post.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/post/post.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/registration/registration.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/registration/registration.html.erb" afterDir="false" />
+    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Fix submit button on create post screen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/post_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/post_controller.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590663481222</updated>
       <workItem from="1590663482589" duration="10717000" />
-      <workItem from="1590939211191" duration="15395000" />
+      <workItem from="1590939211191" duration="15497000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590668485304</created>
@@ -267,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590956163042</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Fix submit buttons">
+      <created>1590956464948</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590956464948</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix submit button on create post screen">
+      <created>1590956484639</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590956484639</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +311,9 @@
     <MESSAGE value="Fix register button on login screen" />
     <MESSAGE value="Reduce login width" />
     <MESSAGE value="Implement home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement home page" />
+    <MESSAGE value="Fix submit buttons" />
+    <MESSAGE value="Fix submit button on create post screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix submit button on create post screen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590663825692">
@@ -422,11 +435,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="600" height="440" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590667377506" />
-    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup" timestamp="1590956366105">
+    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup" timestamp="1590956489007">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590699920624" />
-    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590956366105" />
+    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590956489007" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/blog@Development__blog.rcov" NAME="Development: blog Coverage Results" MODIFIED="1590954503298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="blog" />

@@ -26,5 +26,11 @@
         <div><button type="submit" class="button_action button_create_post_submit">Create Post</button></div>
       </div>
     </form>
+
+    <% flash.each do |_, msg| %>
+      <div class="message_error">
+        <%= msg %>
+      </div>
+    <% end %>
   </div>
 </div>
