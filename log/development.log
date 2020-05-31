@@ -20487,3 +20487,270 @@ Processing by ActiveStorage::DiskController#show as PNG
 Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 351)
 
 
+Started GET "/feed/feed" for 127.0.0.1 at 2020-05-31 22:51:31 +0300
+Processing by FeedController#feed as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/feed_controller.rb:11:in `feed'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  Rendering feed/feed.html.erb within layouts/application
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTc5WiIsInB1ciI6ImJsb2Jfa2V5In19--38276f9e2ff0b301f9b4f7e2cd588e92b322ee98/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 22:51:31 +0300
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTgwWiIsInB1ciI6ImJsb2Jfa2V5In19--928f56d908bdaaff00dbc4345b2098ceae396528/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 22:51:31 +0300
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTc5WiIsInB1ciI6ImJsb2Jfa2V5In19--38276f9e2ff0b301f9b4f7e2cd588e92b322ee98", "filename"=>"Untitled-1"}
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY created_at DESC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/views/feed/feed.html.erb:18
+Completed 200 OK in 2ms (ActiveRecord: 0.0ms | Allocations: 766)
+
+
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+Processing by ActiveStorage::DiskController#show as PNG
+  ↳ app/models/post.rb:14:in `creator_image'
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTgwWiIsInB1ciI6ImJsb2Jfa2V5In19--928f56d908bdaaff00dbc4345b2098ceae396528", "filename"=>"Untitled-1"}
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "User"], ["name", "avatar"], ["LIMIT", 1]]
+  ↳ app/models/user.rb:7:in `avatar_safe'
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 934)
+
+
+  ↳ app/views/feed/feed.html.erb:21
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/models/post.rb:5:in `creator_name'
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "Post"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  [1m[36mActiveStorage::Blob Load (0.1ms)[0m  [1m[34mSELECT "active_storage_blobs".* FROM "active_storage_blobs" WHERE "active_storage_blobs"."id" = ? LIMIT ?[0m  [["id", 12], ["LIMIT", 1]]
+  ↳ app/views/feed/feed.html.erb:24
+  Rendered feed/feed.html.erb within layouts/application (Duration: 18.4ms | Allocations: 11413)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 35ms (Views: 31.2ms | ActiveRecord: 1.0ms | Allocations: 18113)
+
+
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTc5WiIsInB1ciI6ImJsb2Jfa2V5In19--38276f9e2ff0b301f9b4f7e2cd588e92b322ee98/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 22:51:31 +0300
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhkV3R6YTNaNlptTTVlbk13T1c1dGQzZHVZbkJoYnpVeWRHcHJNZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTc5WiIsInB1ciI6ImJsb2Jfa2V5In19--38276f9e2ff0b301f9b4f7e2cd588e92b322ee98", "filename"=>"Untitled-1"}
+Started GET "/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTgwWiIsInB1ciI6ImJsb2Jfa2V5In19--928f56d908bdaaff00dbc4345b2098ceae396528/Untitled-1.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22Untitled-1.png%22%3B+filename%2A%3DUTF-8%27%27Untitled-1.png" for 127.0.0.1 at 2020-05-31 22:51:31 +0300
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 342)
+
+
+Processing by ActiveStorage::DiskController#show as PNG
+  Parameters: {"content_type"=>"image/png", "disposition"=>"inline; filename=\"Untitled-1.png\"; filename*=UTF-8''Untitled-1.png", "encoded_key"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWhNM1IzWm5weE5YTnBibVZ3ZERsb2NuTTVjbWMxY0dzeVp6VnhaQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxWdWRHbDBiR1ZrTFRFdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRWYm5ScGRHeGxaQzB4TG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRPSIsImV4cCI6IjIwMjAtMDUtMzFUMTk6NTU6MDguMTgwWiIsInB1ciI6ImJsb2Jfa2V5In19--928f56d908bdaaff00dbc4345b2098ceae396528", "filename"=>"Untitled-1"}
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Allocations: 348)
+
+
+Started POST "/feed/logout" for 127.0.0.1 at 2020-05-31 22:51:32 +0300
+Processing by FeedController#logout as HTML
+  Parameters: {"authenticity_token"=>"bxTLkNuGxRnbA9SXGq9yEBHjJhIJpNkM6OXdqxLCgD06aoOW62yipCN4l9uBVe5kvMkFGBbrb0LTJMGfj1y5QQ=="}
+Redirected to http://0.0.0.0:3000/home/index
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms | Allocations: 337)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2020-05-31 22:51:32 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 86)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 4819)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-31 22:51:36 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 4209)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-31 22:51:37 +0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 4203)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:51:38 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.9ms | Allocations: 396)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 5189)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:51:38 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.2ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4327)
+
+
+Started POST "/login/post" for 127.0.0.1 at 2020-05-31 22:51:41 +0300
+Processing by LoginController#post as HTML
+  Parameters: {"login"=>"asdasd", "password"=>"[FILTERED]"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE ((email = 'asdasd' OR nickname = 'asdasd') AND password = '') LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/controllers/login_controller.rb:11:in `post'
+Redirected to http://0.0.0.0:3000/login/login
+Completed 302 Found in 1ms (ActiveRecord: 0.1ms | Allocations: 1025)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:51:41 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.2ms | Allocations: 136)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 4340)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:52:51 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.2ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4329)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:52:59 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.8ms | Allocations: 327)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 5568)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:53:03 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.7ms | Allocations: 383)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 5492)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:53:10 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.7ms | Allocations: 387)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 5504)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:09 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.6ms | Allocations: 393)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 5503)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:18 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.8ms | Allocations: 388)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms | Allocations: 5499)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:38 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 131)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4332)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:39 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.7ms | Allocations: 379)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 5493)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:41 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 139)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4329)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:47 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4321)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:50 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.6ms | Allocations: 386)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 5505)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:54:52 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.7ms | Allocations: 378)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 5497)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:55:03 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 139)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 27ms (Views: 26.2ms | ActiveRecord: 0.0ms | Allocations: 16946)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:55:18 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 25ms (Views: 24.6ms | ActiveRecord: 0.0ms | Allocations: 16911)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:55:29 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.7ms | Allocations: 384)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 5633)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:55:54 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 139)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4389)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:55:55 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.7ms | Allocations: 376)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 5549)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:56:01 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 139)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 24ms (Views: 23.1ms | ActiveRecord: 0.0ms | Allocations: 18172)
+
+
+Started GET "/login/login" for 127.0.0.1 at 2020-05-31 22:56:57 +0300
+Processing by LoginController#login as HTML
+  Rendering login/login.html.erb within layouts/application
+  Rendered login/login.html.erb within layouts/application (Duration: 0.2ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms | Allocations: 17687)
+
+

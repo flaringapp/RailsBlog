@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Implement displaying images in feed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/login/login.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/login/login.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/84/a31471e1161bd5" afterDir="false" />
+    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Fix register button on login screen">
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590663481222</updated>
       <workItem from="1590663482589" duration="10717000" />
-      <workItem from="1590939211191" duration="13979000" />
+      <workItem from="1590939211191" duration="14035000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590668485304</created>
@@ -244,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590954657246</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fix register button on login screen">
+      <created>1590954976933</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590954976933</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +280,8 @@
     <MESSAGE value="Implement registration, cleanup styles" />
     <MESSAGE value="Implement displaying user nick and image on feed screen" />
     <MESSAGE value="Implement displaying images in feed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement displaying images in feed" />
+    <MESSAGE value="Fix register button on login screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix register button on login screen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590663825692">
