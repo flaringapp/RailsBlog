@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple blog written with Ruby on Rails
 
-Things you may want to cover:
+P.S. commits are spammed with cache files :no_mouth:. I just forgot to use gitignore. And used RubyMine. So yes. It's JetBrains. Tons of cache files :dizzy_face:
 
-* Ruby version
+**Entities:**
 
-* System dependencies
+* User { email, nickname, avatar, description }
+* Post { image, message }
 
-* Configuration
+**Pages:**
 
-* Database creation
+* Home page (actually no design, simply 2 buttons)
+* Login page that supports entering either email or nickname (and password of course :grin:)
+* Registration page with email, password, nick, avatar, description
+* Feed page with posts
 
-* Database initialization
+**Fetures:**
 
-* How to run the test suite
+* Each form has validation (made by redirection tho, so forms are cleared if smth is invalid :confused:)
+* Active storage used for saving images
+* Authorization, registration
+* Likesssss :+1:
+* Simple and kinda minimalistic design
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hope you enjoy it :yum:
