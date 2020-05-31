@@ -4,6 +4,9 @@ Simple blog written with Ruby on Rails
 
 P.S. commits are spammed with cache files :no_mouth:. I just forgot to use gitignore. And used RubyMine. So yes. It's JetBrains. Tons of cache files :dizzy_face:
 
+**Note!**
+Select image fields are raw - nothing is changed on UI after picking image - so don't be confused about it  
+
 **Entities:**
 
 * User { email, nickname, avatar, description }
