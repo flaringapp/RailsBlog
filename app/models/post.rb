@@ -8,7 +8,4 @@ class Post < ApplicationRecord
     User.find(creator_id).avatar
   end
 
-  def acceptable_image
-    nil unless image.attached?
-  end
 end

@@ -10,30 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Fix screen main background">
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/registration.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/registration_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/registration_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/registration/registration.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20200531174717_remove_user_image.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/registration_controller_test.rb" afterDir="false" />
+    <list default="true" id="fc63d64a-2e06-4dfa-bb0b-2a25fdcc2e47" name="Default Changelist" comment="Implement registration, cleanup styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/feed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/login.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/login_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/login_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/feed_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/feed_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/feed/feed.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/feed/feed.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/login/login.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/login/login.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/post/post.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/post/post.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/development.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db/development.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/26/7af1f78aa0bfb6" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/26/7af1f78aa0bfb6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/bc/dd39c0bbdd0dad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f8/05b0cea750e55b" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f8/05b0cea750e55b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590663481222</updated>
       <workItem from="1590663482589" duration="10717000" />
-      <workItem from="1590939211191" duration="11221000" />
+      <workItem from="1590939211191" duration="11961000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590668485304</created>
@@ -243,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590945342112</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implement registration, cleanup styles">
+      <created>1590952288956</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590952288956</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +260,8 @@
     <MESSAGE value="Add login screen" />
     <MESSAGE value="Implement verifications if user is logged in, fix error message and login error" />
     <MESSAGE value="Fix screen main background" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix screen main background" />
+    <MESSAGE value="Implement registration, cleanup styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement registration, cleanup styles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590663825692">
@@ -371,11 +362,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1067" y="637" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590944276948" />
-    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590947050142">
+    <state x="826" y="362" width="909" height="716" key="find.popup" timestamp="1590952796382">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="542" y="264" width="596" height="522" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590762262196" />
-    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590947050142" />
+    <state x="826" y="362" width="909" height="716" key="find.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590952796382" />
     <state x="621" y="427" key="git4idea.ui.GitStashDialog" timestamp="1590761878165">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -384,11 +375,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="600" height="440" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590667377506" />
-    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup" timestamp="1590951926068">
+    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup" timestamp="1590952858861">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590699920624" />
-    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590951926068" />
+    <state x="770" y="320" width="1021" height="928" key="search.everywhere.popup/0.0.2560.1440/409.1440.1680.1050@0.0.2560.1440" timestamp="1590952858861" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/blog@Development__blog.rcov" NAME="Development: blog Coverage Results" MODIFIED="1590944806763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="blog" />

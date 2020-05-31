@@ -8,6 +8,8 @@
       <div class="right_actions">
         <%= link_to "New Post", post_post_path, class: "button_action button_create_post" %>
         <%= link_to "Logout", feed_logout_path, method: :post, class: "button_action button_logout" %>
+        <%= label_tag("user_name", @user_name, class: "user_name") %>
+        <%= image_tag(@user_avatar, class: "user_avatar") %>
       </div>
     </div>
   </div>
