@@ -2,6 +2,10 @@
 
 Simple blog written with Ruby on Rails
 
+Check out [demo video on YouTube](https://youtu.be/z0W84ZOGJkY) 
+
+![Preview image](https://i.ibb.co/hCW8dmf/image.png)
+
 P.S. commits are spammed with cache files :no_mouth:. I just forgot to use gitignore. And used RubyMine. So yes. It's JetBrains. Tons of cache files :dizzy_face:
 
 **Note!**
