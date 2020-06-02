@@ -10,19 +10,21 @@ P.S. commits are spammed with cache files :no_mouth:. I just forgot to use gitig
 
 **Note!**
 
-Select image fields are raw - nothing is changed on UI after picking image - so don't be confused about it  
+Select image fields are dumb - UI is not updated after picking image - so don't be confused about it  
 
 **Entities:**
 
-* User { email, nickname, avatar, description }
-* Post { image, message }
+* User { id, email, nickname, avatar, description }
+* Post { id, image, message }
+* Like { id, userId, postId }
 
 **Pages:**
 
-* Home page (actually no design, simply 2 buttons)
-* Login page that supports entering either email or nickname (and password of course :grin:)
+* Home (actually no design, simply 2 buttons)
+* Login that supports entering either email or nickname (and password of course :grin:)
 * Registration page with email, password, nick, avatar, description
-* Feed page with posts
+* Feed with posts
+* Create post
 
 **Fetures:**
 
